@@ -15,7 +15,7 @@ const userData = {
     {
       title: "Work in progress: Epicodus Capstone",
       link: "https://github.com/gareth-24/capstone",
-      imgUrl: "/portfolio.png",
+      imgUrl: "/capstone.png",
     },
     {
       title: "Next.js Blog",
